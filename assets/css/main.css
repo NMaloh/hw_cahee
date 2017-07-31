@@ -127,12 +127,6 @@ ul {
   flex-wrap: wrap;
 }
 
-
-.block__img {
-  padding-left: -35px;
-}
-
-
 .block {
   margin-left: 95px;
 }
@@ -152,6 +146,5 @@ ul {
   font-size: 17px;
   font-weight: 300;
   line-height: 27px;
-  /* Приближение из-за подстановки шрифтов */
   width: 500px;
 }

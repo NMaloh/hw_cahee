@@ -123,15 +123,14 @@ ul {
 .container {
   margin: 0 165px;
   display: flex;
-  flex-wrap: wrap;
-}
-
-.block {
-  margin-left: 95px;
 }
 
 .block__img {
   margin-top: 45px;
+}
+
+.block {
+  margin-left: 95px;
 }
 
 .block__title {

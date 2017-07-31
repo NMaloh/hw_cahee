@@ -118,7 +118,6 @@ ul {
   height: 700px;
   background-color: #00c4c4;
   background-image: linear-gradient(to right, rgba(0, 196, 196, .9), rgba(0, 183, 183, .9) 32%, rgba(0, 173, 173, .9) 68%, rgba(0, 156, 156, .9));
-
 }
 
 .container {
@@ -130,6 +129,11 @@ ul {
 .block {
   margin-left: 95px;
 }
+
+.block__img {
+  margin-top: 45px;
+}
+
 .block__title {
   font-family: 'Raleway';
   color: #ffffff;
